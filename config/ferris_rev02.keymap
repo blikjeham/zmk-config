@@ -4,6 +4,8 @@
  * SPDX-License-Identifier: MIT
  */
 
+/* This keyboard layout follows my original layout for the QMK version of Ferris Sweep */
+
 #undef ZMK_BEHAVIORS_KEEP_ALL
 
 #include <behaviors.dtsi>

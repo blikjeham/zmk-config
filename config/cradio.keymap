@@ -75,7 +75,7 @@
         num_layer {
             bindings = <
                 &kp ESC     &kp AMPS        &kp LBRC        &kp RBRC        &kp GRAVE       &kp FSLH        &kp N7          &kp N8      &kp N9      &kp BSLH
-                &kp LSHFT   &ht LCTRL TILDE &ht LALT LPAR   &kp RPAR        &kp TAB         &kp EQUAL       &kp N4          &kp N5      &kp N6      &kp MINUS
+                &kp LSHFT   &htl LCTRL TILDE &htl LALT LPAR   &kp RPAR        &kp TAB         &kp EQUAL       &kp N4          &kp N5      &kp N6      &kp MINUS
                 &bt BT_CLR_ALL      &trans	        &kp LBKT        &kp RBKT        &kp STAR        &kp GT          &kp N1          &kp N2      &kp N3      &kp UNDER
                                                             &trans          &trans          &kp N0          &kp DOT
             >;
